@@ -1,0 +1,18 @@
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\bin\Debug\net5.0-windows\Conversão de Temperatura.exe
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\bin\Debug\net5.0-windows\Conversão de Temperatura.deps.json
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\bin\Debug\net5.0-windows\Conversão de Temperatura.runtimeconfig.json
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\bin\Debug\net5.0-windows\Conversão de Temperatura.runtimeconfig.dev.json
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\bin\Debug\net5.0-windows\Conversão de Temperatura.dll
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\bin\Debug\net5.0-windows\ref\Conversão de Temperatura.dll
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\bin\Debug\net5.0-windows\Conversão de Temperatura.pdb
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\obj\Debug\net5.0-windows\Conversão de Temperatura.csprojAssemblyReference.cache
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\obj\Debug\net5.0-windows\Conversão_de_Temperatura.Form1.resources
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\obj\Debug\net5.0-windows\Conversão de Temperatura.csproj.GenerateResource.cache
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\obj\Debug\net5.0-windows\Conversão de Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\obj\Debug\net5.0-windows\Conversão de Temperatura.AssemblyInfoInputs.cache
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\obj\Debug\net5.0-windows\Conversão de Temperatura.AssemblyInfo.cs
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\obj\Debug\net5.0-windows\Conversão de Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\obj\Debug\net5.0-windows\Conversão de Temperatura.dll
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\obj\Debug\net5.0-windows\ref\Conversão de Temperatura.dll
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\obj\Debug\net5.0-windows\Conversão de Temperatura.pdb
+C:\Users\Johnny\Desktop\----\DS\Conversão de Temperatura\Conversão de Temperatura\obj\Debug\net5.0-windows\Conversão de Temperatura.genruntimeconfig.cache
